@@ -10,7 +10,7 @@ I'm a engineer by training, a systems thinker by practice, and a maker at my cor
 
 <div class="callout" markdown="1">
 **Here, you will eventually find**
-art, projects, and stories from the things I make and the spaces I inhabit. My *burgeoning* box of untold curiosities.
+art, projects, and stories from the things I make and the spaces I inhabit. My *burgeoning* backpack of untold curiosities.
 </div>
 
 Lately, making looks like: mending tech, a bit punk engineering, and always having something *in the works*. A 3D printed self-watering plant pot, a MP3 player made in a mint tin, cycling accessories, and innumerable sketches.
