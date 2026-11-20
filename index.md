@@ -4,13 +4,13 @@ layout: default
 
 <p class="hello">welcome, <span class="pop green">bienvenido</span>, <span class="pop blue">ek’áalẹ̀</span>, <span class="pop warm" lang="ar" dir="rtl">مَرْحَبًا!</span></p>
 
-I'm so glad you've made your way here. This is my little corner of the internet, where I showcase some of my *various* projects under one roof.
+I'm so glad you've made your way here. This is my little corner of the internet, where I showcase selection of my latest projects.
 
-I'm a mechanical engineer by training, a systems thinker by practice, and a maker at my core. I'm happiest when tackling challenges by embracing their entangled nature. The *technical* design, the ***environment***, and the **community** are all in conversation when forging something new.
+I'm a engineer by training, a systems thinker by practice, and a maker at my core. I am happiest when tackling challenges by embracing their entangled nature. The ***technical*** design, the ***environment***, and the ***community*** are all in conversation when forging something new.
 
 <div class="callout" markdown="1">
-**what you'll find here, eventually**
-Art, projects, and stories from the things I make and the spaces I call home. My very own <span class="pop blue">burgeoning</span> box of untold curiosities.
+**here, you will eventually find**
+Art, projects, and stories from the things I make and the spaces I call home. My very own *burgeoning* box of untold curiosities.
 </div>
 
 Making means: DIY fixes, a little bit punk engineering, always having something *in the works*. Self-watering plant pots, MP3 players, and innumerable sketches.
