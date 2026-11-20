@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-<p class="hello">welcome, <span class="pop blue">welcome</span>, <span class="pop warm">welcome!</span></p>
+<p class="hello">welcome, <span class="pop green">bienvenido</span>, <span class="pop blue">ek’áalẹ̀</span>, <span class="pop warm">مَرْحَبًا!</span></p>
 
 I'm so glad you've made your way here. This is my little corner of the internet, where I showcase some of my *various* projects under one roof.
 
