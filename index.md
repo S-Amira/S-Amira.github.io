@@ -11,7 +11,7 @@ I'm a mechanical engineer by training, a systems thinker by practice, and a make
 
 <div class="callout" markdown="1">
 **what you'll find here, eventually is**
-Art, projects, and stories from the things I make and the spaces I call home. My very own <span class="pop blue">growing</span> box of untold curiosities.
+Art, projects, and stories from the things I make and the spaces I call home. My very own <span class="pop blue">burgeoning</span> box of untold curiosities.
 </div>
 
 Making means: DIY fixes, a little bit punk engineering, always having something *in the works*. Self-watering plant pots, MP3 players, and innumerable sketches.
@@ -19,7 +19,7 @@ Art (for me) is: a mindset and a lens through which I interogate and synthosize 
 
 <div class="callout aside" markdown="1">
 
-**Everything about my professional history lives on LinkedIn. This site offers another vantage point.**
+**Everything about my professional history lives on LinkedIn.** This site offers another vantage point.
 </div>
 
 [LinkedIn](https://www.linkedin.com/in/amira-sinclair) 
