@@ -18,7 +18,7 @@ Making means: DIY fixes, a little bit punk engineering, always having something 
 Art (for me) is: a mindset and a lens through which I interrogate and synthesize experiences. Lately I've been wandering through works of <span class="pop warm">speculative fiction</span>, <span class="pop blue">magical realism</span>, and <span class="pop green">Africanfuturism</span>.
 
 <div class="callout aside" markdown="1">
-**Everything about my professional history lives on LinkedIn.** This site offers another vantage point.
+**All things pertaining to my professional career can be found on LinkedIn.** This site offers another vantage point.
 </div>
 
 [LinkedIn](https://www.linkedin.com/in/amira-sinclair) 
