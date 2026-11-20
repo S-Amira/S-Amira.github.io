@@ -4,7 +4,7 @@ layout: default
 
 <p class="hello">welcome, <span class="pop blue">ek’áalẹ̀</span>, <span class="pop green">bienvenido</span>, <span class="pop warm" lang="ar" dir="rtl">مَرْحَبًا!</span></p>
 
-I'm so glad you've made your way here. This is my little corner of the internet, where I showcase selection of my latest projects.
+I'm so glad you've made your way here. This is my little corner of the internet, where I showcase a selection of my latest projects.
 
 I'm a engineer by training, a systems thinker by practice, and a maker at my core. I am happiest when tackling challenges by embracing their entangled nature. ***Technical*** design, ***environment***, and ***community*** are all in conversation when forging something new.
 
