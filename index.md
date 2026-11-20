@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<p class="hello">welcome, <span class="pop green">bienvenido</span>, <span class="pop blue">ek’áalẹ̀</span>, <span class="pop warm" lang="ar" dir="rtl">مَرْحَبًا!</span></p>
+<p class="hello">welcome, <span class="pop blue">ek’áalẹ̀</span>, <span class="pop green">bienvenido</span>, <span class="pop warm" lang="ar" dir="rtl">مَرْحَبًا!</span></p>
 
 I'm so glad you've made your way here. This is my little corner of the internet, where I showcase selection of my latest projects.
 
