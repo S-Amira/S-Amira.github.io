@@ -10,10 +10,10 @@ I'm a engineer by training, a systems thinker by practice, and a maker at my cor
 
 <div class="callout" markdown="1">
 **Here, you will eventually find**
-art, projects, and stories from the things I make and the spaces I call inhabit. My very own *burgeoning* box of untold curiosities.
+art, projects, and stories from the things I make and the spaces I inhabit. My *burgeoning* box of untold curiosities.
 </div>
 
-Making means: DIY fixes, a little bit punk engineering, always having something *in the works*. Self-watering plant pots, MP3 players, and innumerable sketches.
+Lately, making looks like: Mending tech, a bit punk engineering, always having something *in the works*. A 3D printed self-watering plant pot, a MP3 player made in an mint tin, cycling accessories, and innumerable sketches.
 
 Art (for me) is: a mindset and a lens through which I interrogate and synthesize experiences. Lately I've been wandering through works of <span class="pop warm">speculative fiction</span>, <span class="pop blue">magical realism</span>, and <span class="pop green">Africanfuturism</span>.
 
