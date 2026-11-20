@@ -30,3 +30,18 @@
   display: inline-block;
   padding-bottom: 0.3rem;
 }
+
+.hello {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2;
+  margin: 1.5rem 0;
+}
+
+.pop {
+  font-weight: 700;
+}
+
+.pop.blue  { color: #267cb9; }
+.pop.warm  { color: #d9693a; }
+.pop.green { color: #3f8f6b; }
